@@ -23,7 +23,7 @@ Pretty impressive but also a tiny bit scary to be surrounded by so
 many great minds.
 
 Speaking of great (or not so great) minds: Since end of November there
-are [allegations](https://stanforddaily.com/2022/12/15/latest-updates-stanford-president-under-investigation-for-research-misconduct/) against the neuro scientist and current president of Stanford Marc Tessier-Lavigne
+are [allegations](https://stanforddaily.com/2022/12/15/tessier-lavigne-papers-editorial-expressions-of-concern/) against the neuro scientist and current president of Stanford Marc Tessier-Lavigne
 for scientific misconduct.
 Apparently, in several articles that he co-authored (some as senior author)
 images seem to be manipulated.
