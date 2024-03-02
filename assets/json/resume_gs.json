@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Georg Schramm",
-    "label": "Asssitant Professor",
+    "label": "Asssitant Professor in Molecular Image Reconstruction and Analysis",
     "image": "",
     "email": "",
     "phone": "",
     "url": "https://gschramm.github.io/",
-    "summary": "Assistant Professor in Molecular Image Reconstruction and Analysis at KU Leuven who focusses on enhancing the diagnostic image quality of molecular images through advanced modeling of imaging systems, implementing cutting-edge reconstruction algorithms, and applying sustainable machine learning techniques.",
+    "summary": "Assistant Professor at KU Leuven who focusses on enhancing the diagnostic image quality of molecular images through advanced modeling of imaging systems, implementing cutting-edge reconstruction algorithms, and applying sustainable machine learning techniques.",
     "location": {
       "address": "Herestraat 49",
       "postalCode": "3000",
