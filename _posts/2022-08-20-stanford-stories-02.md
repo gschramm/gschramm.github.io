@@ -12,7 +12,7 @@ We even got a few drops of rain here at Stanford on Wednesday afternoon, which i
 
 In 1934, to commemorate the completion of the aqueduct, the San Francisco water department build the Pulgas water temple at the end of the aqueduct. I discovered this picturesque neoclassical temple with its Corinthian columns and a dazzling turquoise pool during my Saturday morning bike ride along Cañada Road.
 
-Now it is time to continue my hunt for an even better second hand road or gravel bike such that I can do even longer rides to discover many more of those places. Yesterday evening we met with other visiting students and postdocs and one of them put in a Stanford hiking and cycling group. So I am sure that there will be many more adventures, blog posts and photos to come. 
+Now it is time to continue my hunt for an even better second hand road or gravel bike such that I can do even longer rides to discover many more of those places. Yesterday evening we met with other visiting students and postdocs and one of them put in a Stanford hiking and cycling group. So I am sure that there will be many more adventures, blog posts and photos to come.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -23,7 +23,6 @@ Now it is time to continue my hunt for an even better second hand road or gravel
     My loyal red two-wheeled companion in front of the Pulgas water temple.
 </div>
 
-
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/stanford-stories/02/DSCF3491.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -32,7 +31,6 @@ Now it is time to continue my hunt for an even better second hand road or gravel
 <div class="caption">
     The Pulgas water temple.
 </div>
-
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

@@ -13,13 +13,13 @@ profile:
 #    <p>123 your address street</p>
 #    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: true # includes a list of news items
+latest_posts: true # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-I am an **Assistant Professor in Molecular Image Reconstruction and Analysis at KU Leuven, Belgium**, emphasizing improved diagnostic image quality through advanced modeling, cutting-edge reconstruction algorithms, and sustainable machine learning techniques. 
+I am an **Assistant Professor in Molecular Image Reconstruction and Analysis at KU Leuven, Belgium**, emphasizing improved diagnostic image quality through advanced modeling, cutting-edge reconstruction algorithms, and sustainable machine learning techniques.
 
 Born in 1987 in Görlitz, Germany, I spent my childhood engrossed in football and playing saxophone and clarinet in the local music school's big band. In 2005, I moved to Dresden to study physics at TU Dresden, later completing an Erasmus semester at the University of Sheffield in 2009. I earned my **Master's in physics in 2011**, ranking among the top five graduates in TU Dresden's School of Science.
 

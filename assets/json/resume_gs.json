@@ -92,33 +92,19 @@
       "name": "PET imaging",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "image reconstruction",
-        "ML-based PET imaging",
-        "PET physics"
-      ]
+      "keywords": ["image reconstruction", "ML-based PET imaging", "PET physics"]
     },
     {
       "name": "Scientific computing",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "python",
-        "CUDA",
-        "pytorch",
-        "git",
-        "cmake",
-        "conda-forge"
-      ]
+      "keywords": ["python", "CUDA", "pytorch", "git", "cmake", "conda-forge"]
     },
     {
       "name": "Applied Maths",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "optimization",
-        "inverse problems"
-      ]
+      "keywords": ["optimization", "inverse problems"]
     }
   ],
   "languages": [
@@ -142,28 +128,17 @@
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Nuclear physics",
-        "PET physics"
-      ]
+      "keywords": ["Nuclear physics", "PET physics"]
     },
     {
       "name": "Imaging",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Medical imaging",
-        "Imaging as an inverse problem",
-        "ML-based methods for imaging",
-        "Image-based dosimetry"
-      ]
+      "keywords": ["Medical imaging", "Imaging as an inverse problem", "ML-based methods for imaging", "Image-based dosimetry"]
     },
     {
       "name": "Scientific computing",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "high-performance optimization",
-        "high-performance image reconstruction"
-      ]
+      "keywords": ["high-performance optimization", "high-performance image reconstruction"]
     }
   ],
   "references": [
