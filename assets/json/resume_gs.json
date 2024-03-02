@@ -145,17 +145,22 @@
     {
       "name": "Professor Johan Nuyts",
       "icon": "fa-solid fa-laptop",
-      "reference": "https://www.kuleuven.be/wieiswie/en/person/00015224"
+      "reference": "KU Leuven"
     },
     {
       "name": "Professor Fernando Boada",
       "icon": "fa-solid fa-laptop",
-      "reference": "https://med.stanford.edu/profiles/fernando-boada"
+      "reference": "Stanford University"
     },
     {
       "name": "Professor Jörg van den Hoff",
       "icon": "fa-solid fa-laptop",
-      "reference": "https://www.hzdr.de/db/!ContMan.Visi.Card?pUser=1510&pNid=387&pLang=en"
+      "reference": "Helmholtz-Zentrum Dresden-Rossendorf"
+    },
+    {
+      "name": "Professor Kris Thielemans",
+      "icon": "fa-solid fa-laptop",
+      "reference": "University COLLEGE London"
     }
   ]
 }
