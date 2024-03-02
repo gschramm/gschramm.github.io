@@ -20,27 +20,27 @@
       "name": "Department of Imaging and Pathology, Division, Nuclear Medicine, KU Leuven",
       "position": "Assistant Professor",
       "url": "https://www.kuleuven.be/wieiswie/en/person/00102742",
-      "startDate": "2023-09-01"
+      "startDate": "2023"
     },
     {
       "name": "Radiological Sciences Laboratory, Department of Radiology, Stanford University, CA, US",
       "position": "Instructor",
-      "startDate": "2022-08-01",
-      "endDate": "2023-07-31",
+      "startDate": "2022",
+      "endDate": "2023",
       "summary": "As an instructor in the lab of Prof. Fernando Boada, I worked on structure-guided reconstruction of sodium MR images incluing joint decay estimation."
     },
     {
       "name": "Department of Imaging and Pathology, Division, Nuclear Medicine, KU Leuven",
       "position": "Postdoctoral Researcher",
-      "startDate": "2015-04-01",
-      "endDate": "2022-07-31",
+      "startDate": "2015",
+      "endDate": "2022",
       "summary": "As a PostDoc in the lab of Prof. Johan Nuyts, I investigated advanced method for iterative PET image reconstruction (e.g. structural priors) and the application of deep learning in PET reconstruction and image analysis."
     },
     {
       "name": " Institute for Radiopharmaceutical Cancer Research, Helmholtz-Zentrum Dresden-Rossendorf, Dresden, Germany",
       "position": "PhD Student",
-      "startDate": "2011-04-01",
-      "endDate": "2015-01-31",
+      "startDate": "2011",
+      "endDate": "2015",
       "summary": "As a PhD student in the lab of Prof. Jörg van den Hoff, I was evaluating and improving whole-body MR-based attenuation correction using one of the ﬁrst combined PET/MR systems world-wide."
     }
   ],
@@ -51,8 +51,8 @@
       "url": "https://tu-dresden.de/",
       "area": "Medical Imaging (summa cum laude)",
       "studyType": "PhD",
-      "startDate": "2011-04-01",
-      "endDate": "2015-01-31",
+      "startDate": "2011",
+      "endDate": "2015",
       "score": "summa cum laude"
     },
     {
@@ -61,8 +61,8 @@
       "url": "https://tu-dresden.de/",
       "area": "Nuclear Physics",
       "studyType": "Master",
-      "startDate": "2005-10-01",
-      "endDate": "2011-03-31"
+      "startDate": "2005",
+      "endDate": "2011"
     }
   ],
   "awards": [
