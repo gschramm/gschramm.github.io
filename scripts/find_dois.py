@@ -14,6 +14,8 @@ for entry in bib_database.entries:
         query += f", {entry['booktitle']}"
     print(query)
 
+    entry['bibtex_show'] = 'true'
+
     if not 'doi' in entry:
         res = cr.works(query=query)
     
@@ -26,6 +28,7 @@ for entry in bib_database.entries:
         if 'DOI' in res['message']['items'][i]: 
             entry['doi'] = res['message']['items'][i]['DOI']
             entry['dimensions'] = 'true'
+            entry['altmetric'] = 'true'
 
 #with open('bibtex.bib', 'w') as bibtex_file:
 #        bibtexparser.dump(bib_database, bibtex_file)
