@@ -26,4 +26,5 @@ Born in 1987 in Görlitz, Germany, I spent my childhood engrossed in football an
 In 2015, I obtained a **PhD (Dr. rer. medic) in medical imaging** with the highest distinction **(summa cum laude) from TU Dresden / Helmholz-Zentrum Dresden-Rossendorf**.
 Following seven years as a **Postdoc at KU Leuven**, Belgium, focusing on advanced image reconstruction techniques for molecular imaging, I spent a year as a **visiting instructor at Stanford University**, CA, working on sodium MR image reconstruction.
 
+
 In my free time, I enjoy hiking, photography, cycling, as well as supporting the San Francisco 49ers.
