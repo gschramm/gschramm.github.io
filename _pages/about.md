@@ -16,7 +16,7 @@ profile:
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom
 ---
 
 I am an **Assistant Professor in Molecular Image Reconstruction and Analysis at KU Leuven, Belgium**, emphasizing improved diagnostic image quality through advanced modeling, cutting-edge reconstruction algorithms, and sustainable machine learning techniques.
