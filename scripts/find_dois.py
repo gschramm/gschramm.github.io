@@ -29,6 +29,8 @@ for entry in bib_database.entries:
             entry['doi'] = res['message']['items'][i]['DOI']
             entry['dimensions'] = 'true'
             entry['altmetric'] = 'true'
+    else:
+        entry['html'] = f"https://doi.org/{entry['doi']}"
 
 #with open('bibtex.bib', 'w') as bibtex_file:
 #        bibtexparser.dump(bib_database, bibtex_file)
