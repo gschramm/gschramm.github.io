@@ -6,7 +6,7 @@ with open('../_bibliography/papers_gs.bib') as bibtex_file:
 
 cr = Crossref()
 
-for entry in bib_database.entries[:5]:
+for entry in bib_database.entries:
     query = f"{entry['author'].split(',')[0]}: {entry['title']}"
     if entry['ENTRYTYPE'] == 'article':
         query += f", {entry['journal']}"
@@ -32,5 +32,5 @@ for entry in bib_database.entries[:5]:
     else:
         entry['html'] = f"https://doi.org/{entry['doi']}"
 
-#with open('bibtex.bib', 'w') as bibtex_file:
-#        bibtexparser.dump(bib_database, bibtex_file)
+with open('bibtex.bib', 'w') as bibtex_file:
+        bibtexparser.dump(bib_database, bibtex_file)
