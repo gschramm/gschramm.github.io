@@ -32,5 +32,5 @@ for entry in bib_database.entries:
     else:
         entry['html'] = f"https://doi.org/{entry['doi']}"
 
-#with open('bibtex.bib', 'w') as bibtex_file:
-#        bibtexparser.dump(bib_database, bibtex_file)
+with open('bibtex.bib', 'w') as bibtex_file:
+        bibtexparser.dump(bib_database, bibtex_file)
