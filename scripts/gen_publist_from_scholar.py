@@ -24,13 +24,14 @@ author = scholarly.fill(first_author_result )
 cr = Crossref()
 
 with open('bibtex.bib', 'w') as bibtex_file:
-    for pub in author['publications']:
+    for ip, pub in enumerate(author['publications']):
         scholarly.fill(pub)
     
         bib = pub['bib']
-        bib['ENTRYTYPE'] = 'article'
-        bib['ID'] = pub['cites_id'][0]
+        bib['ID'] = str(ip)
+        bib['year'] = bib['pub_year']
         bib.pop('abstract', None)
+        bib.pop('pub_year', None)
     
         # find the DOI from crossref
         query = f"{bib['title']}, {bib['citation']}"
@@ -39,6 +40,13 @@ with open('bibtex.bib', 'w') as bibtex_file:
     
         for it in res['message']['items']:
             if it['title'][0].lower()[:10] == bib['title'].lower()[:10]:
+                if it['type'] == 'journal-article':
+                    bib['ENTRYTYPE'] = 'article'
+                elif it['type'] == 'proceedings-article':
+                    bib['ENTRYTYPE'] = 'inproceedings'
+                else:
+                    break
+
                 print(it['author'][0]['family'])
                 print(it['title'][0])
                 if 'DOI' in it: 
@@ -48,10 +56,10 @@ with open('bibtex.bib', 'w') as bibtex_file:
                     bib['altmetric'] = 'true'
                     bib['html'] = f"https://doi.org/{bib['doi']}"
                 print()
+
+                bib['bibtex_show'] = 'true'
+                bib_str = scholarly.bibtex(pub)
+                print(bib_str)
+                bibtex_file.write(bib_str)
+
                 break
-    
-        bib['bibtex_show'] = 'true'
-    
-        bib_str = scholarly.bibtex(pub)
-        print(bib_str)
-        bibtex_file.write(bib_str)
