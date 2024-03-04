@@ -6,7 +6,7 @@ with open('../_bibliography/papers_gs.bib') as bibtex_file:
 
 cr = Crossref()
 
-for entry in bib_database.entries:
+for entry in bib_database.entries[:5]:
     query = f"{entry['author'].split(',')[0]}: {entry['title']}"
     if entry['ENTRYTYPE'] == 'article':
         query += f", {entry['journal']}"
