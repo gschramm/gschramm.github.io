@@ -9,4 +9,6 @@ children:
     permalink: /photos_color/
   - title: b&w
     permalink: /photos_bw/
+  - title: portrait
+    permalink: /photos_portrait/
 ---
