@@ -1,10 +1,12 @@
+import datetime
 from scholarly import scholarly
 import pandas as pd
 from pathlib import Path
 
-fname = 'publication_stats.json'
+query = 'Georg Schramm KU Leuven'
+fname = Path(f"{query}_{datetime.datetime.today().strftime('%Y-%m')}.json")
 
-if Path(fname).exists():
+if fname.exists():
     df = pd.read_json(fname)
 else:
     # %%
@@ -37,5 +39,5 @@ else:
 
 for series_name, series in df.items():
     print(series_name, series.sum())
-    print(series.sort_values(ascending=False)[:5])
+    print(series.sort_values(ascending=False)[:6])
     print()
