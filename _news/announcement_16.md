@@ -5,6 +5,5 @@ inline: true
 ---
 
 Invited talk "Machine learning in PET Image Reconstruction – Opportunities,
-Challenges, and Common Pitfalls" at the 
-[BASP Frontiers Conference](https://baspfrontiers.org/proceedings/) 
-in Villar-sur-Ollon, Switzerland.
+Challenges, and Common Pitfalls" at the
+BASP Frontiers Conference in Villar-sur-Ollon, Switzerland.

@@ -18,7 +18,7 @@ nav_order: 3
 
 **Master students**
 
-- Max Keppens 
+- Max Keppens
 
 **Former Master students**
 
