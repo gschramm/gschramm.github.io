@@ -14,7 +14,6 @@ nav_order: 4
 - Computational and Numerical Methods in Medical Physics (KUL G0Z58a, teaching assistant)
 - Medical Imaging and Analysis (KUL H03H5a, teaching assistant)
 
-
 **academic year 2024/25**
 
 - Technology and techniques in nuclear medicine (KUL G0Z64a, reader)
