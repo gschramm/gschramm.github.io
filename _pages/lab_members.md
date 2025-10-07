@@ -15,11 +15,13 @@ nav_order: 3
 
 - Simon Noë
 - Amir Zaman Pour
+- Max Keppens
 
 **Master students**
 
-- Max Keppens
+- Santiago Alvarado Orozco
 
 **Former Master students**
 
+- Max Keppens
 - Zeineb Ben Chaben (2025, co-supervision with Prof. Reinhard Heckel, TUM, Munich, Germany)

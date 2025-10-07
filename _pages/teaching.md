@@ -7,6 +7,14 @@ nav: true
 nav_order: 4
 ---
 
+**academic year 2025/26**
+
+- Technology and techniques in nuclear medicine (KUL G0Z64a, reader)
+- Ionizing radiation: imaging and medical aspects (KUL E01R6a, reader)
+- Computational and Numerical Methods in Medical Physics (KUL G0Z58a, teaching assistant)
+- Medical Imaging and Analysis (KUL H03H5a, teaching assistant)
+
+
 **academic year 2024/25**
 
 - Technology and techniques in nuclear medicine (KUL G0Z64a, reader)
