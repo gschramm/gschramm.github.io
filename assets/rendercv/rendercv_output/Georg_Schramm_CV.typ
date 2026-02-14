@@ -93,12 +93,6 @@
 )
 
 
-== General Information
-
-#strong[Date of Birth:] 08 April 1987
-
-#strong[Languages:] English, German, Dutch
-
 == Education
 
 #education-entry(
@@ -111,7 +105,7 @@
 
   ],
   [
-    2015
+    Apr 2011 – Jan 2015
 
   ],
   degree-column: [
@@ -127,7 +121,7 @@
 
   ],
   [
-    2011
+    2011 – 2015
 
   ],
   degree-column: [
@@ -182,15 +176,19 @@
   ],
 )
 
-== Honors and Awards
+== Awards
 
 #regular-entry(
   [
     #strong[Runner-up of the ultra low dose PET denoising challenge]
 
+    Seyed Amir Zaman Pour, Charles Carron, Georg Schramm
+
+    #link("https://udpet-challenge.github.io/")[udpet-challenge.github.io]
+
   ],
   [
-    2025
+    Nov 2025
 
   ],
 )
@@ -199,9 +197,13 @@
   [
     #strong[Winner of the PET reconstruction challenge (PETRIC)]
 
+    Matthias Ehrhard, Zeljko Kereta, Georg Schramm
+
+    #link("https://github.com/SyneRBI/PETRIC/wiki/Awards-and-results")[github.com\/SyneRBI\/PETRIC\/wiki\/Awards-and-results]
+
   ],
   [
-    2024
+    Nov 2024
 
   ],
 )
@@ -209,6 +211,10 @@
 #regular-entry(
   [
     #strong[PhD award of Helmholtz-Zentrum Dresden-Rossendorf]
+
+    Georg Schramm
+
+    #link("https://www.hzdr.de/db/Cms?pOid=71933&pNid=0")[www.hzdr.de\/db\/Cms?pOid=71933&pNid=0]
 
   ],
   [
@@ -221,6 +227,10 @@
   [
     #strong[Award for notable achievements in nuclear medicine (DGN)]
 
+    Georg Schramm
+
+    #link("https://www.hzdr.de/db/Cms?pOid=71933&pNid=0")[www.hzdr.de\/db\/Cms?pOid=71933&pNid=0]
+
   ],
   [
     2014
@@ -230,7 +240,24 @@
 
 #regular-entry(
   [
-    #strong[Ehrenfried Walter von Tschirnhaus Prize TU Dresden]
+    #strong[Award for notable achievements in nuclear medicine (DGN)]
+
+    Georg Schramm
+
+    #link("https://www.nuklearmedizin.de/de/leistungen/preistraeger")[www.nuklearmedizin.de\/de\/leistungen\/preistraeger]
+
+  ],
+  [
+    2014
+
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Ehrenfried Walter von Tschirnhaus Prize]
+
+    Georg Schramm
 
   ],
   [
@@ -239,15 +266,11 @@
   ],
 )
 
-== Academic Interests
+== Skills
 
 #regular-entry(
   [
-    #strong[Positron Emission Tomography (PET)]
-
-    - PET image reconstruction
-
-    - PET image quantification and analysis
+    #strong[Physics in Nuclear Medicine]
 
   ],
   [
@@ -256,11 +279,7 @@
 
 #regular-entry(
   [
-    #strong[Physics]
-
-    - PET physics
-
-    - Applied Nuclear Physics
+    #strong[Scientific Computing]
 
   ],
   [
@@ -271,9 +290,69 @@
   [
     #strong[Applied Mathematics]
 
-    - Inverse problems
+  ],
+  [
+  ],
+)
 
-    - Optimization
+== Languages
+
+#regular-entry(
+  [
+    #strong[German]
+
+    #summary[Native speaker]
+
+  ],
+  [
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[English]
+
+    #summary[Fluent]
+
+  ],
+  [
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Dutch]
+
+    #summary[Fluent]
+
+  ],
+  [
+  ],
+)
+
+== Interests
+
+#regular-entry(
+  [
+    #strong[Physics in Nuclear Medicine]
+
+  ],
+  [
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Problem solving in Nuclear Medicine]
+
+  ],
+  [
+  ],
+)
+
+#regular-entry(
+  [
+    #strong[Inverse problems in medical imaging]
 
   ],
   [
@@ -283,10 +362,6 @@
 #regular-entry(
   [
     #strong[Applied Computer Science]
-
-    - High performance computing
-
-    - Efficient algorithms
 
   ],
   [

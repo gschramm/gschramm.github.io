@@ -12,12 +12,6 @@ cv:
       username: gschramm
 
   sections:
-    General Information:
-      - label: Date of Birth
-        details: 08 April 1987
-      - label: Languages
-        details: English, German, Dutch
-
     Education:
       - institution: Technische Universität Dresden, Germany
         area: Medical Imaging
@@ -30,8 +24,8 @@ cv:
       - institution: Technische Universität Dresden, Germany
         area: Physics
         degree: MSC
-        start_date: 2015
-        end_date: 2011
+        start_date: 2011
+        end_date: 2015
         highlights:
           - Simulation of neutron capture and photon scattering
 
@@ -52,32 +46,75 @@ cv:
         end_date: 2022-07
         location: Leuven, Belgium
 
-    Honors and Awards:
-      - name: Runner-up of the ultra low dose PET denoising challenge
-        date: 2025
-      - name: Winner of the PET reconstruction challenge (PETRIC)
-        date: 2024
-      - name: PhD award of Helmholtz-Zentrum Dresden-Rossendorf
-        date: 2014
-      - name: Award for notable achievements in nuclear medicine (DGN)
-        date: 2014
-      - name: Ehrenfried Walter von Tschirnhaus Prize TU Dresden
-        date: 2011
+    Awards:
+      - title: Runner-up of the ultra low dose PET denoising challenge
+        authors:
+          - "Seyed Amir Zaman Pour"
+          - "Charles Carron"
+          - "Georg Schramm"
+        date: 2025-11
+        awarder: University Hospital Bern, Switzerland
+        url: https://udpet-challenge.github.io/
 
-    Academic Interests:
-      - name: Positron Emission Tomography (PET)
-        highlights:
-          - PET image reconstruction
-          - PET image quantification and analysis
-      - name: Physics
-        highlights:
-          - PET physics
-          - Applied Nuclear Physics
+      - title: Winner of the PET reconstruction challenge (PETRIC)
+        authors:
+          - Matthias Ehrhard
+          - Zeljko Kereta
+          - Georg Schramm
+        date: 2024-11
+        awarder: SyneRBI
+        url: https://github.com/SyneRBI/PETRIC/wiki/Awards-and-results
+    
+      - title: PhD award of Helmholtz-Zentrum Dresden-Rossendorf
+        date: 2014
+        authors: 
+          - "Georg Schramm"
+        awarder: Helmholtz-Zentrum Dresden-Rossendorf
+        url: https://www.hzdr.de/db/Cms?pOid=71933&pNid=0
+
+      - title: Award for notable achievements in nuclear medicine (DGN)
+        date: 2014
+        authors: 
+          - "Georg Schramm"
+        awarder: Helmholtz-Zentrum Dresden-Rossendorf
+        url: https://www.hzdr.de/db/Cms?pOid=71933&pNid=0
+
+      - title: Award for notable achievements in nuclear medicine (DGN)
+        date: 2014
+        authors: 
+          - "Georg Schramm"
+        awarder: German Society of Nuclear Medicine (DGN)
+        url: https://www.nuklearmedizin.de/de/leistungen/preistraeger
+      
+      - title: Ehrenfried Walter von Tschirnhaus Prize
+        date: 2011
+        authors: 
+          - "Georg Schramm"
+        awarder: TU Dresden
+
+    Skills:
+      - name: Physics in Nuclear Medicine
+        keywords: modeling of photon interactions, detector physics
+      - name: Scientific Computing
+        keywords: high performance computing, software design, software project management
       - name: Applied Mathematics
-        highlights:
-          - Inverse problems
-          - Optimization
+        keywords: inverse problems, large-scale optimization
+
+    Languages:
+      - name: German
+        summary: "Native speaker"
+      - name: English
+        summary: "Fluent"
+      - name: Dutch
+        summary: "Fluent"
+
+    Interests:
+      - name: Physics in Nuclear Medicine
+        keywords: Modeling of photon interactions in human and detectors
+      - name: Problem solving in Nuclear Medicine
+        keywords: Image reconstruction, image quantification, image analysis, support for MDs
+      - name: Inverse problems in medical imaging
+        keywords: Image reconstruction, image quantification, image analysis
       - name: Applied Computer Science
-        highlights:
-          - High performance computing
-          - Efficient algorithms
+        keywords: High performance computing, efficient algorithms, machine learning
+
