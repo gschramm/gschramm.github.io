@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "CV Georg Schramm",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
