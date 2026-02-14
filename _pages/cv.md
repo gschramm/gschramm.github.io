@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: /assets/rendercv/rendercv_output/Georg_Schramm_CV.pdf
-description: #
+description: CV Georg Schramm
 toc:
   sidebar: left
 ---

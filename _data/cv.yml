@@ -37,18 +37,18 @@ cv:
     Experience:
       - company: KU Leuven
         position: Assistant Professor of Molecular Image Reconstruction and Analysis
-        start_date: 2023-01
+        start_date: 2023-09
         end_date: present
         location: Leuven, Belgium
       - company: Stanford University
         position: Instructor
-        start_date: 2022-01
-        end_date: 2023-12
+        start_date: 2022-08
+        end_date: 2023-08
         location: Stanford, USA
       - company: KU Leuven
         position: Postdoctoral Researcher
-        start_date: 2015-01
-        end_date: 2022-12
+        start_date: 2015-04
+        end_date: 2022-07
         location: Leuven, Belgium
 
     Honors and Awards:
