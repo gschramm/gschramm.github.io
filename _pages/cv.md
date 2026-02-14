@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_format: rendercv # options: rendercv, jsonresume
-#cv_pdf: /assets/rendercv/rendercv_output/Georg_Schramm_CV.pdf
+cv_pdf: /assets/rendercv/rendercv_output/Georg_Schramm_CV.pdf
 description: CV Georg Schramm
 toc:
   sidebar: left

@@ -22,14 +22,16 @@ cv:
       - institution: Technische Universität Dresden, Germany
         area: Medical Imaging
         degree: PhD
-        date: 2015
+        start_date: 2011-04
+        end_date: 2015-01
         highlights:
           - Attenuation correction in PET/MR
           - summa cum laude
       - institution: Technische Universität Dresden, Germany
         area: Physics
         degree: MSC
-        date: 2011
+        start_date: 2015
+        end_date: 2011
         highlights:
           - Simulation of neutron capture and photon scattering
 
