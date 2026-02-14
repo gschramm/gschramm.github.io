@@ -98,7 +98,7 @@ cv:
       - name: Scientific Computing
         keywords: high performance computing, software design, software project management
       - name: Applied Mathematics
-        keywords: inverse problems, large-scale optimization
+        keywords: inverse problems, large-scale optimization, machine learning 
 
     Languages:
       - name: German
