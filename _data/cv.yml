@@ -64,31 +64,31 @@ cv:
         date: 2024-11
         awarder: SyneRBI
         url: https://github.com/SyneRBI/PETRIC/wiki/Awards-and-results
-    
+
       - title: PhD award of Helmholtz-Zentrum Dresden-Rossendorf
         date: 2014
-        authors: 
+        authors:
           - "Georg Schramm"
         awarder: Helmholtz-Zentrum Dresden-Rossendorf
         url: https://www.hzdr.de/db/Cms?pOid=71933&pNid=0
 
       - title: Award for notable achievements in nuclear medicine (DGN)
         date: 2014
-        authors: 
+        authors:
           - "Georg Schramm"
         awarder: Helmholtz-Zentrum Dresden-Rossendorf
         url: https://www.hzdr.de/db/Cms?pOid=71933&pNid=0
 
       - title: Award for notable achievements in nuclear medicine (DGN)
         date: 2014
-        authors: 
+        authors:
           - "Georg Schramm"
         awarder: German Society of Nuclear Medicine (DGN)
         url: https://www.nuklearmedizin.de/de/leistungen/preistraeger
-      
+
       - title: Ehrenfried Walter von Tschirnhaus Prize
         date: 2011
-        authors: 
+        authors:
           - "Georg Schramm"
         awarder: TU Dresden
 
@@ -117,4 +117,3 @@ cv:
         keywords: Image reconstruction, image quantification, image analysis
       - name: Applied Computer Science
         keywords: High performance computing, efficient algorithms, machine learning
-
