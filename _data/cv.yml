@@ -56,14 +56,14 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Physics
-      items:
-        - PET physics
-        - Applied Nuclear Physics
     - title: Positron Emission Tomography (PET)
       items:
         - PET image reconstruction
         - PET image quantification and analysis
+    - title: Physics
+      items:
+        - Applied Nuclear Physics
+        - PET physics
     - title: Applied Mathematics
       items:
         - Inverse problems
