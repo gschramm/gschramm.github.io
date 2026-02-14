@@ -1,6 +1,6 @@
 ---
 layout: cv
-cv_pdf: /assets/rendercv/rendercv_output/CV.pdf
+cv_pdf: /assets/rendercv/rendercv_output/Georg_Schramm_CV.pdf
 permalink: /cv/
 title: cv
 nav: true

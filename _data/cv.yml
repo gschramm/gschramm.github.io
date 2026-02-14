@@ -1,74 +1,83 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Georg Schramm
-    - name: Date of Birth
-      value: 08th April 1987
-    - name: Languages
-      value: English, German, Dutch
+cv:
+  name: Georg Schramm
+  label: Assistant Professor of Molecular Image Reconstruction and Analysis
+  location: Leuven, Belgium
+  #summary: 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD (Dr. rer. medic)
-      institution: Technische Universität Dresden, Germany
-      year: 2015
-      description:
-        - Attenuation correction in PET/MR
-        - summa cum laude
-    - title: Master in Physics (Diplom-Physiker)
-      institution: Technische Universität Dresden, Germany
-      year: 2011
+  social_networks:
+    - network: LinkedIn
+      username: georg-schramm-a372099b # your LinkedIn user name
+    - network: Google Scholar
+      username: txZ90cAAAAJ # your Google Scholar ID
+    - network: GitHub
+      username: gschramm
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Assistant Professor of Molecular Image Reconstruction and Analysis
-      institution: Department of Imaging and Pathology, KU Leuven, Belgium
-      year: 2023 - now
-    - title: Instructor
-      institution: Radiological Sciences Lab, Stanford University, USA
-      year: 2022 - 2023
-    - title: Postdoctoral Researcher
-      institution: Department of Imaging and Pathology, KU Leuven, Belgium
-      year: 2015 - 2022
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2025
-      items:
-        - Runner-up of the 2025 ultra low dose PET denoising challenge
-    - year: 2024
-      items:
-        - Winner of the 2024 PET reconstruction challenge (PETRIC)
-    - year: 2014
-      items:
-        - PhD award of Helmholtz-Zentrum Dresden-Rossendorf
-    - year: 2014
-      items:
-        - Award for notable achievements in nuclear medicine from the German Society of Nuclear Medicine (DGN)
-    - year: 2011
-      items:
-        - Ehrenfried Walther von Tschirnhaus Prize TU Dresden (5 best graduates of the year in the faculty of science)
+  sections:
+    General Information:
+      - label: Date of Birth
+        details: 08 April 1987
+      - label: Languages
+        details: English, German, Dutch
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Positron Emission Tomography (PET)
-      items:
-        - PET image reconstruction
-        - PET image quantification and analysis
-    - title: Physics
-      items:
-        - PET physics
-        - Applied Nuclear Physics
-    - title: Applied Mathematics
-      items:
-        - Inverse problems
-        - Optimization
-    - title: Applied Computer Science
-      items:
-        - high performance computing
-        - efficient algorithms
+    Education:
+      - institution: Technische Universität Dresden, Germany
+        area: Medical Imaging
+        degree: PhD
+        date: 2015
+        highlights:
+          - Attenuation correction in PET/MR
+          - summa cum laude
+      - institution: Technische Universität Dresden, Germany
+        area: Physics
+        degree: MSC
+        date: 2011
+        highlights:
+          - Simulation of neutron capture and photon scattering
+
+    Experience:
+      - company: KU Leuven
+        position: Assistant Professor of Molecular Image Reconstruction and Analysis
+        start_date: 2023-01
+        end_date: present
+        location: Leuven, Belgium
+      - company: Stanford University
+        position: Instructor
+        start_date: 2022-01
+        end_date: 2023-12
+        location: Stanford, USA
+      - company: KU Leuven
+        position: Postdoctoral Researcher
+        start_date: 2015-01
+        end_date: 2022-12
+        location: Leuven, Belgium
+
+    Honors and Awards:
+      - name: Runner-up of the ultra low dose PET denoising challenge
+        date: 2025
+      - name: Winner of the PET reconstruction challenge (PETRIC)
+        date: 2024
+      - name: PhD award of Helmholtz-Zentrum Dresden-Rossendorf
+        date: 2014
+      - name: Award for notable achievements in nuclear medicine (DGN)
+        date: 2014
+      - name: Ehrenfried Walther von Tschirnhaus Prize TU Dresden
+        date: 2011
+
+    Academic Interests:
+      - name: Positron Emission Tomography (PET)
+        highlights:
+          - PET image reconstruction
+          - PET image quantification and analysis
+      - name: Physics
+        highlights:
+          - PET physics
+          - Applied Nuclear Physics
+      - name: Applied Mathematics
+        highlights:
+          - Inverse problems
+          - Optimization
+      - name: Applied Computer Science
+        highlights:
+          - High performance computing
+          - Efficient algorithms
