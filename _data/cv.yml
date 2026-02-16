@@ -35,16 +35,19 @@ cv:
         start_date: 2023-09
         end_date: present
         location: Leuven, Belgium
+        summary: Leading a research group focused on the development of novel methods for image reconstruction and analysis in molecular imaging, with a particular emphasis on PET. The group is also involved in the development of software tools for the analysis of molecular imaging data and the translation of these tools into clinical practice.
       - company: Stanford University
         position: Instructor
         start_date: 2022-08
         end_date: 2023-07
         location: Stanford, USA
+        summary: Instructor in the lab of Prof. Fernando Boada, where I focussed on anatomy-guided sodium MRI reconstruction and analysis.
       - company: KU Leuven
         position: Postdoctoral Researcher
         start_date: 2015-04
         end_date: 2022-07
         location: Leuven, Belgium
+        summary: Postdoctoral researcher in the lab of Prof. Johan Nuyts, where I focussed on the development of novel methods for image reconstruction and analysis in PET. E.g. structure-guided PET reconstruction.
 
     Awards:
       - title: Runner-up of the ultra low dose PET denoising challenge
