@@ -1,8 +1,8 @@
 cv:
   name: Georg Schramm
   label: Assistant Professor of Molecular Image Reconstruction and Analysis
-  location: Leuven, Belgium
   website: https://gschramm.github.io
+  location: Leuven, Belgium
 
   social_networks:
     - network: LinkedIn
