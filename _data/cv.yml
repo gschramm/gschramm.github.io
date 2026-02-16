@@ -2,6 +2,7 @@ cv:
   name: Georg Schramm
   label: Assistant Professor of Molecular Image Reconstruction and Analysis
   location: Leuven, Belgium
+  website: https://gschramm.github.io
 
   social_networks:
     - network: LinkedIn
@@ -19,15 +20,16 @@ cv:
         start_date: 2011-04
         end_date: 2015-01
         highlights:
-          - Attenuation correction in PET/MR
+          - attenuation correction in PET/MR
           - summa cum laude
       - institution: Technische Universität Dresden, Germany
         area: Physics
         degree: MSC
-        start_date: 2011
-        end_date: 2015
+        start_date: 2005-09
+        end_date: 2011-01
         highlights:
-          - Simulation of neutron capture and photon scattering
+          - simulation of neutron capture and photon scattering
+          - among the top 5 of the graduates of the faculty of science in 2011
 
     Experience:
       - company: KU Leuven
@@ -35,97 +37,47 @@ cv:
         start_date: 2023-09
         end_date: present
         location: Leuven, Belgium
-        summary: Leading a research group focused on the development of novel methods for image reconstruction and analysis in molecular imaging, with a particular emphasis on PET. The group is also involved in the development of software tools for the analysis of molecular imaging data and the translation of these tools into clinical practice.
+        summary:
+        highlights:
+          - leading a research group focused on the development of novel methods for improved image reconstruction and analysis in molecular imaging
+          - development of tools for the analysis of molecular imaging data and the translation of these tools into clinical practice
       - company: Stanford University
         position: Instructor
         start_date: 2022-08
         end_date: 2023-07
         location: Stanford, USA
-        summary: Instructor in the lab of Prof. Fernando Boada, where I focussed on anatomy-guided sodium MRI reconstruction and analysis.
+        summary:
+        highlights:
+          - instructor in the lab of Prof. Fernando Boada focussing on anatomy-guided sodium MRI reconstruction
       - company: KU Leuven
         position: Postdoctoral Researcher
         start_date: 2015-04
         end_date: 2022-07
         location: Leuven, Belgium
-        summary: Postdoctoral researcher in the lab of Prof. Johan Nuyts, where I focussed on the development of novel methods for image reconstruction and analysis in PET. E.g. structure-guided PET reconstruction.
+        summary:
+        highlights:
+          - PostDoc in the lab of Prof. Johan Nuyts focussing on the development of novel methods for image reconstruction and analysis in PET (e.g. structure-guided PET reconstruction)
 
     Awards:
-      - title: Runner-up of the ultra low dose PET denoising challenge
-        authors:
-          - "Seyed Amir Zaman Pour"
-          - "Charles Carron"
-          - "Georg Schramm"
-        date: 2025-11
-        awarder: University Hospital Bern, Switzerland
-        url: https://udpet-challenge.github.io/
+      - bullet: 2025, [Runner-up of the ultra low dose PET denoising challenge](https://udpet-challenge.github.io/)
+      - bullet: 2024, [Winner of the PET reconstruction challenge (PETRIC) by SyneRBI](https://github.com/SyneRBI/PETRIC/wiki/Awards-and-results)
+      - bullet: 2014, [PhD award of Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pOid=71933&pNid=0)
+      - bullet: 2014, [Award for notable achievements in nuclear medicine from German Society of Nuclear Medicine](https://www.nuklearmedizin.de/de/leistungen/preistraeger)
+      - bullet: 2011, Ehrenfried Walter von Tschirnhaus Prize from TU Dresden
 
-      - title: Winner of the PET reconstruction challenge (PETRIC)
-        authors:
-          - Matthias Ehrhard
-          - Zeljko Kereta
-          - Georg Schramm
-        date: 2024-11
-        awarder: SyneRBI
-        url: https://github.com/SyneRBI/PETRIC/wiki/Awards-and-results
-
-      - title: PhD award of Helmholtz-Zentrum Dresden-Rossendorf
-        date: 2014
-        authors:
-          - "Georg Schramm"
-        awarder: Helmholtz-Zentrum Dresden-Rossendorf
-        url: https://www.hzdr.de/db/Cms?pOid=71933&pNid=0
-
-      - title: Award for notable achievements in nuclear medicine (DGN)
-        date: 2014
-        authors:
-          - "Georg Schramm"
-        awarder: Helmholtz-Zentrum Dresden-Rossendorf
-        url: https://www.hzdr.de/db/Cms?pOid=71933&pNid=0
-
-      - title: Award for notable achievements in nuclear medicine (DGN)
-        date: 2014
-        authors:
-          - "Georg Schramm"
-        awarder: German Society of Nuclear Medicine (DGN)
-        url: https://www.nuklearmedizin.de/de/leistungen/preistraeger
-
-      - title: Ehrenfried Walter von Tschirnhaus Prize
-        date: 2011
-        authors:
-          - "Georg Schramm"
-        awarder: TU Dresden
-
-    Skills:
-      - name: Physics in Nuclear Medicine
-        keywords: modeling of photon interactions, detector physics
-      - name: Scientific Computing
-        keywords: high performance computing, software design, software project management
-      - name: Applied Mathematics
-        keywords: inverse problems, large-scale optimization, machine learning
+    Skills & Interests:
+      - label: Physics in Nuclear Medicine
+        details: modeling of photon interactions, detector physics, PET, SPECT
+      - label: Applied Mathematics
+        details: inverse problems, image reconstruction, large-scale optimization, machine learning
+      - label: Scientific Computing
+        details: high performance computing, software design, software project management
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-      - name: English
-        summary: "Fluent"
-      - name: Dutch
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics in Nuclear Medicine
-        keywords: Modeling of photon interactions in human and detectors
-      - name: Problem solving in Nuclear Medicine
-        keywords: Image reconstruction, image quantification, image analysis, support for MDs
-      - name: Inverse problems in medical imaging
-        keywords: Image reconstruction, image quantification, image analysis
-      - name: Applied Computer Science
-        keywords: High performance computing, efficient algorithms, machine learning
+      - bullet: German - Native speaker, English - Fluent, Dutch - Fluent
 
     References:
-          - name: Professor Johan Nuyts
-
-          - name: Professor Kris Thielemans
-
-          - name: Professor Fernando Boada
-
-          - name: Professor Andrew Reader
+      - bullet: Professor Johan Nuyts (KU Leuven)
+      - bullet: Professor Kris Thielemans (University College London)
+      - bullet: Professor Fernando Boada (Stanford University)
+      - bullet: Professor Andrew Reader (King's College London)
