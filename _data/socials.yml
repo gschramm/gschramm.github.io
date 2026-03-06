@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/rendercv/rendercv_output/Georg_Schramm_CV.pdf # path to your CV PDF file
 orcid_id: 0000-0002-2251-3195 # your ORCID ID
-scholar_userid: txZ90cAAAAJ # your Google Scholar ID
+scholar_userid: _txZ90cAAAAJ # your Google Scholar ID
 github_username: gschramm # your GitHub user name
 linkedin_username: georg-schramm-a372099b # your LinkedIn user name
 rss_icon: true # comment this line to hide the RSS icon
