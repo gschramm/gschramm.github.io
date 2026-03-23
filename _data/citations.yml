@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-23'
 papers:
   _txZ90cAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -122,7 +122,7 @@ papers:
     title: Correction of scan time dependence of standard uptake values in oncological PET
     year: '2014'
   _txZ90cAAAAJ:JQOojiI6XY0C:
-    citations: 46
+    citations: 47
     title: A quantitative evaluation of joint activity and attenuation reconstruction in TOF PET/MR brain imaging
     year: '2019'
   _txZ90cAAAAJ:JoZmwDi-zQgC:
@@ -202,7 +202,7 @@ papers:
     title: Impact of Lor-Dependent Randoms Energy Spectra on Energy-Based Scatter Estimation in PET
     year: '2025'
   _txZ90cAAAAJ:V3AGJWp-ZtQC:
-    citations: 56
+    citations: 57
     title: Nuclear deformation and neutron excess as competing effects for dipole strength in the pygmy region
     year: '2014'
   _txZ90cAAAAJ:VL0QpB8kHFEC:
@@ -258,7 +258,7 @@ papers:
     title: Combined brain and spinal FDG PET allows differentiation between ALS and ALS mimics
     year: '2020'
   _txZ90cAAAAJ:_B80troHkn4C:
-    citations: 9
+    citations: 10
     title: "On the relation between Kaiser\u2013Bessel blob and tube of response based modelling of the system matrix in iterative PET image reconstruction"
     year: '2015'
   _txZ90cAAAAJ:_Re3VWB3Y0AC:
@@ -350,7 +350,7 @@ papers:
     title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
     year: '2019'
   _txZ90cAAAAJ:kzcrU_BdoSEC:
-    citations: 334
+    citations: 335
     title: STAT2 signaling restricts viral dissemination but drives severe pneumonia in SARS-CoV-2 infected hamsters
     year: '2020'
   _txZ90cAAAAJ:lmc2jWPfTJgC:
@@ -370,7 +370,7 @@ papers:
     title: Investigating total sodium concentration in brain regions after concussion using anatomically-guided reconstruction
     year: Unknown Year
   _txZ90cAAAAJ:olpn-zPbct0C:
-    citations: 44
+    citations: 43
     title: A volume of intersection approach for on-the-fly system matrix calculation in 3D PET image reconstruction
     year: '2014'
   _txZ90cAAAAJ:p__nRnzSRKYC:
@@ -418,7 +418,7 @@ papers:
     title: 'Time of flight in perspective: instrumental and computational aspects of time resolution in positron emission tomography'
     year: '2021'
   _txZ90cAAAAJ:uJ-U7cs_P_0C:
-    citations: 21
+    citations: 22
     title: Comparison of a 3D CZT and conventional SPECT/CT system for quantitative Lu-177 SPECT imaging
     year: '2024'
   _txZ90cAAAAJ:uLbwQdceFCQC:
