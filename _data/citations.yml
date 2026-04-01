@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-23'
+  last_updated: '2026-04-01'
 papers:
   _txZ90cAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: 'Reconstruction-free positron emission imaging: Fact or fiction?'
     year: '2022'
   _txZ90cAAAAJ:35r97b3x0nAC:
-    citations: 10
+    citations: 11
     title: Cerebral glucose changes after chemotherapy and their relation to long-term cognitive complaints and fatigue
     year: '2022'
   _txZ90cAAAAJ:4MWp96NkSFoC:
@@ -70,7 +70,7 @@ papers:
     title: Systematic inaccuracies in the timing offset calibration may lead to large reconstructed transaxial asymmetries in the GE SIGNA PET/MR MP24
     year: '2019'
   _txZ90cAAAAJ:BrmTIyaxlBUC:
-    citations: 80
+    citations: 81
     title: Electromagnetic dipole strength of Ba below the neutron separation energy
     year: '2012'
   _txZ90cAAAAJ:BwyfMAYsbu0C:
@@ -100,7 +100,7 @@ papers:
   _txZ90cAAAAJ:FPJr55Dyh1AC:
     citations: 3
     title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
-    year: '2018'
+    year: '2026'
   _txZ90cAAAAJ:Fu2w8maKXqMC:
     citations: 66
     title: Approximating anatomically-guided PET reconstruction in image space using a convolutional neural network
@@ -170,15 +170,15 @@ papers:
     title: "Role of electric and magnetic dipole strength functions in the Cd 114 (\u03B3, \u03B3\u2032) and Cd 113 (n, \u03B3) reactions"
     year: '2016'
   _txZ90cAAAAJ:PR6Y55bgFSsC:
-    citations: 17
+    citations: 18
     title: Benefits of using a spatially-variant penalty strength with anatomical priors in PET reconstruction
     year: '2019'
   _txZ90cAAAAJ:PoWvk5oyLR8C:
-    citations: 29
+    citations: 30
     title: 'DeepInverse: A Python package for solving imaging inverse problems with deep learning'
     year: '2025'
   _txZ90cAAAAJ:S16KYo8Pm5AC:
-    citations: 1
+    citations: 2
     title: Fast PET reconstruction with variance reduction and prior-aware preconditioning
     year: '2025'
   _txZ90cAAAAJ:SpbeaW3--B0C:
@@ -250,7 +250,7 @@ papers:
     title: Approximating MRI-based anatomically guided PET reconstruction with a convolutional neural network
     year: '2018'
   _txZ90cAAAAJ:ZfRJV9d4-WMC:
-    citations: 35
+    citations: 36
     title: Artificial intelligence for PET image reconstruction
     year: '2021'
   _txZ90cAAAAJ:ZuybSZzF8UAC:
@@ -370,7 +370,7 @@ papers:
     title: Investigating total sodium concentration in brain regions after concussion using anatomically-guided reconstruction
     year: Unknown Year
   _txZ90cAAAAJ:olpn-zPbct0C:
-    citations: 43
+    citations: 42
     title: A volume of intersection approach for on-the-fly system matrix calculation in 3D PET image reconstruction
     year: '2014'
   _txZ90cAAAAJ:p__nRnzSRKYC:
@@ -398,7 +398,7 @@ papers:
     title: The Effect of Reducing CT Dose on Delineation of Organs at Risk in Proton Therapy
     year: '2022'
   _txZ90cAAAAJ:tKAzc9rXhukC:
-    citations: 92
+    citations: 94
     title: 'Quantitative PET in the 2020s: a roadmap'
     year: '2021'
   _txZ90cAAAAJ:tYavs44e6CUC:
@@ -414,11 +414,11 @@ papers:
     title: "Impact of MR\u2010guided PET reconstruction on tau detection and quantification with [18F]\u2010MK\u20106240: Neuroimaging / New imaging methods"
     year: '2020'
   _txZ90cAAAAJ:tzM49s52ZIMC:
-    citations: 57
+    citations: 58
     title: 'Time of flight in perspective: instrumental and computational aspects of time resolution in positron emission tomography'
     year: '2021'
   _txZ90cAAAAJ:uJ-U7cs_P_0C:
-    citations: 22
+    citations: 23
     title: Comparison of a 3D CZT and conventional SPECT/CT system for quantitative Lu-177 SPECT imaging
     year: '2024'
   _txZ90cAAAAJ:uLbwQdceFCQC:
@@ -458,7 +458,7 @@ papers:
     title: Use of Multimodal Imaging and Clinical Biomarkers in Presymptomatic Carriers of C9orf72 Repeat Expansion
     year: '2020'
   _txZ90cAAAAJ:zLWjf1WUPmwC:
-    citations: 11
+    citations: 12
     title: Use of micro-computed tomography to visualize and quantify COVID-19 vaccine efficiency in free-breathing hamsters
     year: '2021'
   _txZ90cAAAAJ:z_wVstp3MssC:
