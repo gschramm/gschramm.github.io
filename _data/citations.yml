@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-01'
+  last_updated: '2026-04-08'
 papers:
   _txZ90cAAAAJ:-FonjvnnhkoC:
     citations: 0
     title: Object independent scatter sensitivities for PET, applied to scatter estimation through fast Monte Carlo simulation
     year: '2026'
   _txZ90cAAAAJ:-_dYPAW6P2MC:
-    citations: 8
+    citations: 9
     title: "Resolution enhancement, noise suppression, and joint T2* decay estimation in dual\u2010echo sodium\u201023 MR imaging using anatomically guided reconstruction"
     year: '2024'
   _txZ90cAAAAJ:0KyAp5RtaNEC:
@@ -18,7 +18,7 @@ papers:
     title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
     year: '2014'
   _txZ90cAAAAJ:1qzjygNMrQYC:
-    citations: 138
+    citations: 139
     title: The PET-derived tumor-to-blood standard uptake ratio (SUR) is superior to tumor SUV as a surrogate parameter of the metabolic rate of FDG
     year: '2013'
   _txZ90cAAAAJ:1yQoGdGgb4wC:
@@ -100,7 +100,7 @@ papers:
   _txZ90cAAAAJ:FPJr55Dyh1AC:
     citations: 3
     title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
-    year: '2026'
+    year: '2017'
   _txZ90cAAAAJ:Fu2w8maKXqMC:
     citations: 66
     title: Approximating anatomically-guided PET reconstruction in image space using a convolutional neural network
@@ -162,7 +162,7 @@ papers:
     title: Improved anatomic visualization of a glomus caroticum tumour within the carotic bifurcation with combined 68Ga-DOTATATE PET/MRI
     year: '2012'
   _txZ90cAAAAJ:N5tVd3kTz84C:
-    citations: 72
+    citations: 73
     title: Whole liver segmentation based on deep learning and manual adjustment for clinical use in SIRT
     year: '2020'
   _txZ90cAAAAJ:PELIpwtuRlgC:
@@ -174,7 +174,7 @@ papers:
     title: Benefits of using a spatially-variant penalty strength with anatomical priors in PET reconstruction
     year: '2019'
   _txZ90cAAAAJ:PoWvk5oyLR8C:
-    citations: 30
+    citations: 33
     title: 'DeepInverse: A Python package for solving imaging inverse problems with deep learning'
     year: '2025'
   _txZ90cAAAAJ:S16KYo8Pm5AC:
@@ -222,7 +222,7 @@ papers:
     title: Maximum Likelihood Estimation of the Geometric Sensitivities in PET
     year: '2019'
   _txZ90cAAAAJ:WA5NYHcadZ8C:
-    citations: 32
+    citations: 33
     title: Dual time point based quantification of metabolic uptake rates in 18F-FDG PET
     year: '2013'
   _txZ90cAAAAJ:WZBGuue-350C:
@@ -370,7 +370,7 @@ papers:
     title: Investigating total sodium concentration in brain regions after concussion using anatomically-guided reconstruction
     year: Unknown Year
   _txZ90cAAAAJ:olpn-zPbct0C:
-    citations: 42
+    citations: 44
     title: A volume of intersection approach for on-the-fly system matrix calculation in 3D PET image reconstruction
     year: '2014'
   _txZ90cAAAAJ:p__nRnzSRKYC:
@@ -442,7 +442,7 @@ papers:
     title: A Quantitative Evaluation of Joint Activity and Attenuation Reconstruction in TOF-PET/MR Brain Studies
     year: '2017'
   _txZ90cAAAAJ:wbdj-CoPYUoC:
-    citations: 60
+    citations: 61
     title: FDG PET/MR for lymph node staging in head and neck cancer
     year: '2014'
   _txZ90cAAAAJ:xtoqd-5pKcoC:
