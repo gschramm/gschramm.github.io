@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-04-29'
 papers:
   _txZ90cAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
     year: '2014'
   _txZ90cAAAAJ:1qzjygNMrQYC:
-    citations: 140
+    citations: 142
     title: The PET-derived tumor-to-blood standard uptake ratio (SUR) is superior to tumor SUV as a surrogate parameter of the metabolic rate of FDG
     year: '2013'
   _txZ90cAAAAJ:1yQoGdGgb4wC:
@@ -30,7 +30,7 @@ papers:
     title: 'Reconstruction-free positron emission imaging: Fact or fiction?'
     year: '2022'
   _txZ90cAAAAJ:35r97b3x0nAC:
-    citations: 11
+    citations: 12
     title: Cerebral glucose changes after chemotherapy and their relation to long-term cognitive complaints and fatigue
     year: '2022'
   _txZ90cAAAAJ:4MWp96NkSFoC:
@@ -82,7 +82,7 @@ papers:
     title: Strengths and weaknesses of energy-based scatter estimation using three basis functions
     year: '2026'
   _txZ90cAAAAJ:D_sINldO8mEC:
-    citations: 129
+    citations: 130
     title: 'PET/MRI in head and neck cancer: initial experience'
     year: '2013'
   _txZ90cAAAAJ:Dip1O2bNi0gC:
@@ -98,9 +98,9 @@ papers:
     title: Joint Estimation of Motion and Image Data for Motion Correction in PET-MRI
     year: '2023'
   _txZ90cAAAAJ:FPJr55Dyh1AC:
-    citations: 3
+    citations: 4
     title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
-    year: '2017'
+    year: '2018'
   _txZ90cAAAAJ:Fu2w8maKXqMC:
     citations: 66
     title: Approximating anatomically-guided PET reconstruction in image space using a convolutional neural network
@@ -118,7 +118,7 @@ papers:
     title: Validation of ZTE head attenuation correction in the GE SIGNA PET/MR-initial results
     year: '2017'
   _txZ90cAAAAJ:J-pR_7NvFogC:
-    citations: 67
+    citations: 68
     title: Correction of scan time dependence of standard uptake values in oncological PET
     year: '2014'
   _txZ90cAAAAJ:JQOojiI6XY0C:
@@ -174,7 +174,7 @@ papers:
     title: Benefits of using a spatially-variant penalty strength with anatomical priors in PET reconstruction
     year: '2019'
   _txZ90cAAAAJ:PoWvk5oyLR8C:
-    citations: 33
+    citations: 35
     title: 'DeepInverse: A Python package for solving imaging inverse problems with deep learning'
     year: '2025'
   _txZ90cAAAAJ:S16KYo8Pm5AC:
@@ -202,7 +202,7 @@ papers:
     title: Impact of Lor-Dependent Randoms Energy Spectra on Energy-Based Scatter Estimation in PET
     year: '2025'
   _txZ90cAAAAJ:V3AGJWp-ZtQC:
-    citations: 58
+    citations: 59
     title: Nuclear deformation and neutron excess as competing effects for dipole strength in the pygmy region
     year: '2014'
   _txZ90cAAAAJ:VL0QpB8kHFEC:
@@ -250,7 +250,7 @@ papers:
     title: Approximating MRI-based anatomically guided PET reconstruction with a convolutional neural network
     year: '2018'
   _txZ90cAAAAJ:ZfRJV9d4-WMC:
-    citations: 36
+    citations: 37
     title: Artificial intelligence for PET image reconstruction
     year: '2021'
   _txZ90cAAAAJ:ZuybSZzF8UAC:
@@ -294,7 +294,7 @@ papers:
     title: 'Replication Data for: Object independent scatter sensitivities for PET, applied to scatter estimation through fast Monte Carlo simulation'
     year: Unknown Year
   _txZ90cAAAAJ:eflP2zaiRacC:
-    citations: 71
+    citations: 72
     title: 'Quantitative accuracy of attenuation correction in the Philips Ingenuity TF whole-body PET/MR system: a direct comparison with transmission-based attenuation correction'
     year: '2013'
   _txZ90cAAAAJ:epqYDVWIO7EC:
@@ -302,7 +302,7 @@ papers:
     title: 2-D Feasibility Study of Joint Reconstruction of Attenuation and Activity in Limited Angle TOF-PET
     year: '2021'
   _txZ90cAAAAJ:eq2jaN3J8jMC:
-    citations: 8
+    citations: 9
     title: Evaluation of in vivo quantification accuracy of the Ingenuity-TF PET/MR
     year: '2015'
   _txZ90cAAAAJ:evX43VCCuoAC:
@@ -334,7 +334,7 @@ papers:
     title: An analytical model for comparing the effective sensitivity of different PET systems
     year: '2023'
   _txZ90cAAAAJ:j8SEvjWlNXcC:
-    citations: 53
+    citations: 55
     title: "PARALLELPROJ\u2014an open-source framework for fast calculation of projections in tomography"
     year: '2024'
   _txZ90cAAAAJ:kRWSkSYxWN8C:
@@ -345,10 +345,6 @@ papers:
     citations: 0
     title: An approach for a reconstruction-derived whole-blood arterial input function (RDIF) in PET/MRI
     year: '2018'
-  _txZ90cAAAAJ:kz9GbA2Ns4gC:
-    citations: 1
-    title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
-    year: '2019'
   _txZ90cAAAAJ:kzcrU_BdoSEC:
     citations: 337
     title: STAT2 signaling restricts viral dissemination but drives severe pneumonia in SARS-CoV-2 infected hamsters
@@ -414,7 +410,7 @@ papers:
     title: "Impact of MR\u2010guided PET reconstruction on tau detection and quantification with [18F]\u2010MK\u20106240: Neuroimaging / New imaging methods"
     year: '2020'
   _txZ90cAAAAJ:tzM49s52ZIMC:
-    citations: 58
+    citations: 59
     title: 'Time of flight in perspective: instrumental and computational aspects of time resolution in positron emission tomography'
     year: '2021'
   _txZ90cAAAAJ:uJ-U7cs_P_0C:
