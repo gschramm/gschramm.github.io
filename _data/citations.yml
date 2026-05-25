@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-25'
 papers:
   _txZ90cAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -58,7 +58,7 @@ papers:
     title: "Synthesis and Kinetic Characterisation of Water\u2010Soluble Fluorogenic Acyl Donors for Transglutaminase 2"
     year: '2016'
   _txZ90cAAAAJ:AXPGKjj_ei8C:
-    citations: 19
+    citations: 18
     title: Neutron total cross section measurements of gold and tantalum at the nELBE photoneutron source
     year: '2013'
   _txZ90cAAAAJ:AvfA0Oy_GE0C:
@@ -70,7 +70,7 @@ papers:
     title: Systematic inaccuracies in the timing offset calibration may lead to large reconstructed transaxial asymmetries in the GE SIGNA PET/MR MP24
     year: '2019'
   _txZ90cAAAAJ:BrmTIyaxlBUC:
-    citations: 81
+    citations: 82
     title: Electromagnetic dipole strength of Ba below the neutron separation energy
     year: '2012'
   _txZ90cAAAAJ:BwyfMAYsbu0C:
@@ -100,7 +100,7 @@ papers:
   _txZ90cAAAAJ:FPJr55Dyh1AC:
     citations: 4
     title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
-    year: '2011'
+    year: '2019'
   _txZ90cAAAAJ:Fu2w8maKXqMC:
     citations: 66
     title: Approximating anatomically-guided PET reconstruction in image space using a convolutional neural network
@@ -142,7 +142,7 @@ papers:
     title: NEMA PET performance measurements of the GE SIGNA integrated TOF PET/MR
     year: '2016'
   _txZ90cAAAAJ:LjlpjdlvIbIC:
-    citations: 73
+    citations: 74
     title: "Evaluation of parallel level sets and Bowsher\u2019s method as segmentation-free anatomical priors for time-of-flight PET reconstruction"
     year: '2017'
   _txZ90cAAAAJ:M7yex6snE4oC:
@@ -174,7 +174,7 @@ papers:
     title: Benefits of using a spatially-variant penalty strength with anatomical priors in PET reconstruction
     year: '2019'
   _txZ90cAAAAJ:PoWvk5oyLR8C:
-    citations: 38
+    citations: 41
     title: 'DeepInverse: A Python package for solving imaging inverse problems with deep learning'
     year: '2025'
   _txZ90cAAAAJ:S16KYo8Pm5AC:
@@ -334,7 +334,7 @@ papers:
     title: An analytical model for comparing the effective sensitivity of different PET systems
     year: '2023'
   _txZ90cAAAAJ:j8SEvjWlNXcC:
-    citations: 58
+    citations: 59
     title: "PARALLELPROJ\u2014an open-source framework for fast calculation of projections in tomography"
     year: '2024'
   _txZ90cAAAAJ:kRWSkSYxWN8C:
@@ -366,7 +366,7 @@ papers:
     title: Investigating total sodium concentration in brain regions after concussion using anatomically-guided reconstruction
     year: Unknown Year
   _txZ90cAAAAJ:olpn-zPbct0C:
-    citations: 42
+    citations: 43
     title: A volume of intersection approach for on-the-fly system matrix calculation in 3D PET image reconstruction
     year: '2014'
   _txZ90cAAAAJ:p__nRnzSRKYC:
@@ -394,11 +394,11 @@ papers:
     title: The Effect of Reducing CT Dose on Delineation of Organs at Risk in Proton Therapy
     year: '2022'
   _txZ90cAAAAJ:tKAzc9rXhukC:
-    citations: 96
+    citations: 97
     title: 'Quantitative PET in the 2020s: a roadmap'
     year: '2021'
   _txZ90cAAAAJ:tYavs44e6CUC:
-    citations: 27
+    citations: 28
     title: 'Moving toward multicenter therapeutic trials in amyotrophic lateral sclerosis: feasibility of data pooling using different translocator protein PET radioligands'
     year: '2020'
   _txZ90cAAAAJ:tkaPQYYpVKoC:
@@ -414,7 +414,7 @@ papers:
     title: 'Time of flight in perspective: instrumental and computational aspects of time resolution in positron emission tomography'
     year: '2021'
   _txZ90cAAAAJ:uJ-U7cs_P_0C:
-    citations: 26
+    citations: 28
     title: Comparison of a 3D CZT and conventional SPECT/CT system for quantitative Lu-177 SPECT imaging
     year: '2024'
   _txZ90cAAAAJ:uLbwQdceFCQC:
@@ -438,7 +438,7 @@ papers:
     title: A Quantitative Evaluation of Joint Activity and Attenuation Reconstruction in TOF-PET/MR Brain Studies
     year: '2017'
   _txZ90cAAAAJ:wbdj-CoPYUoC:
-    citations: 62
+    citations: 63
     title: FDG PET/MR for lymph node staging in head and neck cancer
     year: '2014'
   _txZ90cAAAAJ:xtoqd-5pKcoC:
@@ -458,6 +458,6 @@ papers:
     title: Use of micro-computed tomography to visualize and quantify COVID-19 vaccine efficiency in free-breathing hamsters
     year: '2021'
   _txZ90cAAAAJ:z_wVstp3MssC:
-    citations: 1
+    citations: 2
     title: Joint estimation of activity, attenuation and motion in respiratory-self-gated time-of-flight PET
     year: '2025'
