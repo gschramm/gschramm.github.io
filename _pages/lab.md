@@ -23,5 +23,4 @@ nav_order: 3
 
 **Former Master students**
 
-- Max Keppens
 - Zeineb Ben Chaben (2025, co-supervision with Prof. Reinhard Heckel, TUM, Munich, Germany)
