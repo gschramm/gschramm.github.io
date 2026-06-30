@@ -3,7 +3,7 @@ layout: cv
 permalink: /cv/
 title: cv
 nav: true
-nav_order: 5
+nav_order: 6
 cv_format: rendercv # options: rendercv, jsonresume
 cv_pdf: /assets/rendercv/rendercv_output/Georg_Schramm_CV.pdf
 description: # CV Georg Schramm

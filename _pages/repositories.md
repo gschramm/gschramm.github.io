@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: my GitHub account, our lab organization, and a selection of open-source projects
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <style>

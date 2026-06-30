@@ -58,27 +58,28 @@ cv:
           - PostDoc in the lab of Prof. Johan Nuyts focussing on the development of novel methods for image reconstruction and analysis in PET (e.g. structure-guided PET reconstruction)
 
     Awards & Honors:
+      - bullet: 2026, CCP SyneRBI a honorary award for contributions to the community on open source software as well as education and training on AI aspects
+      - bullet: 2026, [Winner of the 2nd PET reconstruction challenge (PETRIC2) by SyneRBI](https://github.com/SyneRBI/PETRIC2/wiki/Awards-and-results)
       - bullet: 2025, [Runner-up of the ultra low dose PET denoising challenge](https://udpet-challenge.github.io/)
       - bullet: 2024, [Winner of the PET reconstruction challenge (PETRIC) by SyneRBI](https://github.com/SyneRBI/PETRIC/wiki/Awards-and-results)
       - bullet: 2014, [PhD award of Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pOid=71933&pNid=0)
       - bullet: 2014, [Award for notable achievements in nuclear medicine from German Society of Nuclear Medicine](https://www.nuklearmedizin.de/de/leistungen/preistraeger)
       - bullet: 2011, Ehrenfried Walter von Tschirnhaus Prize from TU Dresden
 
-    Skills & Interests:
-      - label: Physics in Nuclear Medicine
-        details: modeling of photon interactions, detector physics, PET, SPECT
-      - label: Applied Mathematics
-        details: inverse problems, image reconstruction, large-scale optimization, machine learning
-      - label: Scientific Computing
-        details: high performance computing, software design, software project management
+    Service to the scientific community:
+      - bullet: Associate Editor, *EJNM Physics* (2020–2026)
+      - bullet: Editorial Board member, *Physics in Medicine & Biology* (2026–present)
+      - bullet: Topic Convenor, *IEEE Medical Imaging Conference (MIC)* (2026)
 
-    Languages:
-      - name: German
-        summary: Native speaker
-      - name: English
-        summary: Fluent
-      - name: Dutch
-        summary: Fluent
+    Skills & Interests:
+      - bullet: Physics in Nuclear Medicine - modeling of photon interactions, detector physics, PET, SPECT
+      - bullet: Applied Mathematics - inverse problems, image reconstruction, large-scale optimization, machine learning
+      - bullet: Scientific Computing - high performance computing, software design, software project management
+
+    Spoken Languages:
+      - bullet: German - native
+      - bullet: English - fluent
+      - bullet: Dutch - fluent
 
     References:
       - name: Professor Johan Nuyts (KU Leuven)
