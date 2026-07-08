@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-08'
 papers:
   _txZ90cAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: 'Reconstruction-free positron emission imaging: Fact or fiction?'
     year: '2022'
   _txZ90cAAAAJ:35r97b3x0nAC:
-    citations: 12
+    citations: 13
     title: Cerebral glucose changes after chemotherapy and their relation to long-term cognitive complaints and fatigue
     year: '2022'
   _txZ90cAAAAJ:4MWp96NkSFoC:
@@ -54,7 +54,7 @@ papers:
     title: Image quality evaluation of sipm-based and standard pmt-based time-of-flight systems for yttrium-90 pet/ct imaging
     year: '2018'
   _txZ90cAAAAJ:9vf0nzSNQJEC:
-    citations: 14
+    citations: 15
     title: "Synthesis and Kinetic Characterisation of Water\u2010Soluble Fluorogenic Acyl Donors for Transglutaminase 2"
     year: '2016'
   _txZ90cAAAAJ:AXPGKjj_ei8C:
@@ -70,7 +70,7 @@ papers:
     title: Systematic inaccuracies in the timing offset calibration may lead to large reconstructed transaxial asymmetries in the GE SIGNA PET/MR MP24
     year: '2019'
   _txZ90cAAAAJ:BrmTIyaxlBUC:
-    citations: 82
+    citations: 83
     title: Electromagnetic dipole strength of Ba below the neutron separation energy
     year: '2012'
   _txZ90cAAAAJ:BwyfMAYsbu0C:
@@ -97,10 +97,6 @@ papers:
     citations: 0
     title: Joint Estimation of Motion and Image Data for Motion Correction in PET-MRI
     year: '2023'
-  _txZ90cAAAAJ:FPJr55Dyh1AC:
-    citations: 4
-    title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
-    year: '2024'
   _txZ90cAAAAJ:Fu2w8maKXqMC:
     citations: 67
     title: Approximating anatomically-guided PET reconstruction in image space using a convolutional neural network
@@ -166,7 +162,7 @@ papers:
     title: Whole liver segmentation based on deep learning and manual adjustment for clinical use in SIRT
     year: '2020'
   _txZ90cAAAAJ:PELIpwtuRlgC:
-    citations: 19
+    citations: 20
     title: "Role of electric and magnetic dipole strength functions in the Cd 114 (\u03B3, \u03B3\u2032) and Cd 113 (n, \u03B3) reactions"
     year: '2016'
   _txZ90cAAAAJ:PR6Y55bgFSsC:
@@ -202,7 +198,7 @@ papers:
     title: Impact of Lor-Dependent Randoms Energy Spectra on Energy-Based Scatter Estimation in PET
     year: '2025'
   _txZ90cAAAAJ:V3AGJWp-ZtQC:
-    citations: 60
+    citations: 61
     title: Nuclear deformation and neutron excess as competing effects for dipole strength in the pygmy region
     year: '2014'
   _txZ90cAAAAJ:VL0QpB8kHFEC:
@@ -282,7 +278,7 @@ papers:
     title: Low septal to lateral wall 18F-FDG ratio is highly associated with mechanical dyssynchrony in non-ischemic CRT candidates
     year: '2019'
   _txZ90cAAAAJ:dTyEYWd-f8wC:
-    citations: 47
+    citations: 48
     title: Early and late effects of radiochemotherapy on cerebral blood flow in glioblastoma patients measured with non-invasive perfusion MRI
     year: '2016'
   _txZ90cAAAAJ:eMMeJKvmdy0C:
@@ -338,7 +334,7 @@ papers:
     title: "PARALLELPROJ\u2014an open-source framework for fast calculation of projections in tomography"
     year: '2024'
   _txZ90cAAAAJ:kRWSkSYxWN8C:
-    citations: 36
+    citations: 37
     title: Electromagnetic dipole strength up to the neutron separation energy from Pt() and Pt() reactions
     year: '2013'
   _txZ90cAAAAJ:kuK5TVdYjLIC:
@@ -354,7 +350,7 @@ papers:
     title: Joint estimation of activity, attenuation and motion in respiratory-gated time-of-flight PET
     year: '2022'
   _txZ90cAAAAJ:mvPsJ3kp5DgC:
-    citations: 63
+    citations: 64
     title: "Dipole strength in 78 Se below the neutron separation energy from a combined analysis of 77 Se (n, \u03B3) and 78 Se (\u03B3, \u03B3\u2032) experiments"
     year: '2012'
   _txZ90cAAAAJ:nrtMV_XWKgEC:
@@ -366,7 +362,7 @@ papers:
     title: Investigating total sodium concentration in brain regions after concussion using anatomically-guided reconstruction
     year: Unknown Year
   _txZ90cAAAAJ:olpn-zPbct0C:
-    citations: 44
+    citations: 45
     title: A volume of intersection approach for on-the-fly system matrix calculation in 3D PET image reconstruction
     year: '2014'
   _txZ90cAAAAJ:p__nRnzSRKYC:
@@ -394,7 +390,7 @@ papers:
     title: The Effect of Reducing CT Dose on Delineation of Organs at Risk in Proton Therapy
     year: '2022'
   _txZ90cAAAAJ:tKAzc9rXhukC:
-    citations: 99
+    citations: 101
     title: 'Quantitative PET in the 2020s: a roadmap'
     year: '2021'
   _txZ90cAAAAJ:tYavs44e6CUC:
