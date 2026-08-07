@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-08-07'
 papers:
   _txZ90cAAAAJ:-FonjvnnhkoC:
     citations: 0
@@ -13,20 +13,16 @@ papers:
     citations: 1
     title: Improving the quantification accuracy of a PET/CT-scanner with pixelated large area detector
     year: '2015'
-  _txZ90cAAAAJ:0N-VGjzr574C:
-    citations: 0
-    title: Publications Repository-Helmholtz-Zentrum Dresden-Rossendorf
-    year: '2014'
   _txZ90cAAAAJ:1qzjygNMrQYC:
-    citations: 144
+    citations: 146
     title: The PET-derived tumor-to-blood standard uptake ratio (SUR) is superior to tumor SUV as a surrogate parameter of the metabolic rate of FDG
     year: '2013'
   _txZ90cAAAAJ:1yQoGdGgb4wC:
-    citations: 10
+    citations: 11
     title: 'Moving towards multicenter therapeutic trials in ALS: feasibility of data pooling using different TSPO positron emission tomography (PET) radioligands.'
     year: '2020'
   _txZ90cAAAAJ:2KloaMYe4IUC:
-    citations: 10
+    citations: 9
     title: 'Reconstruction-free positron emission imaging: Fact or fiction?'
     year: '2022'
   _txZ90cAAAAJ:35r97b3x0nAC:
@@ -46,7 +42,7 @@ papers:
     title: Influence and compensation of truncation artifacts in MR-based attenuation correction in PET/MR
     year: '2013'
   _txZ90cAAAAJ:7T2F9Uy0os0C:
-    citations: 51
+    citations: 54
     title: Regional Accuracy of ZTE-Based Attenuation Correction in Static [18F]FDG and Dynamic [18F]PE2I Brain PET/MR
     year: '2019'
   _txZ90cAAAAJ:9Nmd_mFXekcC:
@@ -70,7 +66,7 @@ papers:
     title: Systematic inaccuracies in the timing offset calibration may lead to large reconstructed transaxial asymmetries in the GE SIGNA PET/MR MP24
     year: '2019'
   _txZ90cAAAAJ:BrmTIyaxlBUC:
-    citations: 83
+    citations: 82
     title: Electromagnetic dipole strength of Ba below the neutron separation energy
     year: '2012'
   _txZ90cAAAAJ:BwyfMAYsbu0C:
@@ -82,7 +78,7 @@ papers:
     title: Strengths and weaknesses of energy-based scatter estimation using three basis functions
     year: '2026'
   _txZ90cAAAAJ:D_sINldO8mEC:
-    citations: 133
+    citations: 132
     title: 'PET/MRI in head and neck cancer: initial experience'
     year: '2013'
   _txZ90cAAAAJ:Dip1O2bNi0gC:
@@ -98,7 +94,7 @@ papers:
     title: Joint Estimation of Motion and Image Data for Motion Correction in PET-MRI
     year: '2023'
   _txZ90cAAAAJ:Fu2w8maKXqMC:
-    citations: 67
+    citations: 66
     title: Approximating anatomically-guided PET reconstruction in image space using a convolutional neural network
     year: '2021'
   _txZ90cAAAAJ:HE397vMXCloC:
@@ -118,7 +114,7 @@ papers:
     title: Correction of scan time dependence of standard uptake values in oncological PET
     year: '2014'
   _txZ90cAAAAJ:JQOojiI6XY0C:
-    citations: 47
+    citations: 48
     title: A quantitative evaluation of joint activity and attenuation reconstruction in TOF PET/MR brain imaging
     year: '2019'
   _txZ90cAAAAJ:JoZmwDi-zQgC:
@@ -138,7 +134,7 @@ papers:
     title: NEMA PET performance measurements of the GE SIGNA integrated TOF PET/MR
     year: '2016'
   _txZ90cAAAAJ:LjlpjdlvIbIC:
-    citations: 73
+    citations: 74
     title: "Evaluation of parallel level sets and Bowsher\u2019s method as segmentation-free anatomical priors for time-of-flight PET reconstruction"
     year: '2017'
   _txZ90cAAAAJ:M7yex6snE4oC:
@@ -170,7 +166,7 @@ papers:
     title: Benefits of using a spatially-variant penalty strength with anatomical priors in PET reconstruction
     year: '2019'
   _txZ90cAAAAJ:PoWvk5oyLR8C:
-    citations: 50
+    citations: 57
     title: 'DeepInverse: A Python package for solving imaging inverse problems with deep learning'
     year: '2025'
   _txZ90cAAAAJ:S16KYo8Pm5AC:
@@ -186,7 +182,7 @@ papers:
     title: Preliminary evaluation of the MLAA algorithm with the Philips Ingenuity PET/MR
     year: '2014'
   _txZ90cAAAAJ:UHK10RUVsp4C:
-    citations: 26
+    citations: 27
     title: Metal artifact correction strategies in MRI-based attenuation correction in PET/MRI
     year: '2019'
   _txZ90cAAAAJ:URolC5Kub84C:
@@ -234,7 +230,7 @@ papers:
     title: Motion compensation in emission tomography
     year: '2021'
   _txZ90cAAAAJ:XiVPGOgt02cC:
-    citations: 26
+    citations: 25
     title: 'FDG PET/MR for the assessment of lymph node involvement in lymphoma: initial results and role of diffusion-weighted MR'
     year: '2014'
   _txZ90cAAAAJ:XoXfffV-tXoC:
@@ -246,7 +242,7 @@ papers:
     title: Approximating MRI-based anatomically guided PET reconstruction with a convolutional neural network
     year: '2018'
   _txZ90cAAAAJ:ZfRJV9d4-WMC:
-    citations: 37
+    citations: 38
     title: Artificial intelligence for PET image reconstruction
     year: '2021'
   _txZ90cAAAAJ:ZuybSZzF8UAC:
@@ -258,7 +254,7 @@ papers:
     title: "On the relation between Kaiser\u2013Bessel blob and tube of response based modelling of the system matrix in iterative PET image reconstruction"
     year: '2015'
   _txZ90cAAAAJ:_Re3VWB3Y0AC:
-    citations: 27
+    citations: 28
     title: 'Regional glucose metabolic decreases with ageing are associated with microstructural white matter changes: a simultaneous PET/MR study'
     year: '2022'
   _txZ90cAAAAJ:_Ybze24A_UAC:
@@ -270,7 +266,7 @@ papers:
     title: "Usability of PETSIRD, the PET Raw Data open format of the Emission Tomography Standardization Initiative (ETSI): results from ETSI\xE2\u20AC\u2122 s first hackathon"
     year: '2024'
   _txZ90cAAAAJ:bnK-pcrLprsC:
-    citations: 44
+    citations: 43
     title: "Partial volume correction in arterial spin labeling using a Look\u2010Locker sequence"
     year: '2013'
   _txZ90cAAAAJ:dQ2og3OwTAUC:
@@ -278,7 +274,7 @@ papers:
     title: Low septal to lateral wall 18F-FDG ratio is highly associated with mechanical dyssynchrony in non-ischemic CRT candidates
     year: '2019'
   _txZ90cAAAAJ:dTyEYWd-f8wC:
-    citations: 48
+    citations: 49
     title: Early and late effects of radiochemotherapy on cerebral blood flow in glioblastoma patients measured with non-invasive perfusion MRI
     year: '2016'
   _txZ90cAAAAJ:eMMeJKvmdy0C:
@@ -287,18 +283,18 @@ papers:
     year: '2014'
   _txZ90cAAAAJ:edDO8Oi4QzsC:
     citations: 1
-    title: 'Replication Data for: Object independent scatter sensitivities for PET, applied to scatter estimation through fast Monte Carlo simulation'
-    year: Unknown Year
+    title: 'Replication Data for: object independent scatter sensitivities for PET, applied to scatter estimation through fast Monte Carlo simulation'
+    year: '2026'
   _txZ90cAAAAJ:eflP2zaiRacC:
-    citations: 72
+    citations: 74
     title: 'Quantitative accuracy of attenuation correction in the Philips Ingenuity TF whole-body PET/MR system: a direct comparison with transmission-based attenuation correction'
     year: '2013'
   _txZ90cAAAAJ:epqYDVWIO7EC:
-    citations: 3
+    citations: 2
     title: 2-D Feasibility Study of Joint Reconstruction of Attenuation and Activity in Limited Angle TOF-PET
     year: '2021'
   _txZ90cAAAAJ:eq2jaN3J8jMC:
-    citations: 8
+    citations: 9
     title: Evaluation of in vivo quantification accuracy of the Ingenuity-TF PET/MR
     year: '2015'
   _txZ90cAAAAJ:evX43VCCuoAC:
@@ -310,7 +306,7 @@ papers:
     title: 'Learned Primal-Dual Algorithm for PET Reconstruction: A Comparative Study With U-Net Post-Processing'
     year: '2025'
   _txZ90cAAAAJ:g3aElNc5_aQC:
-    citations: 2
+    citations: 3
     title: Evaluation of region-of-interest-based brain PET reconstruction
     year: '2018'
   _txZ90cAAAAJ:gsN89kCJA0AC:
@@ -323,7 +319,7 @@ papers:
     year: '2019'
   _txZ90cAAAAJ:hkOj_22Ku90C:
     citations: 14
-    title: 'Impact of left bundle branch block on myocardial perfusion and metabolism: a positron emission tomography study'
+    title: 'Impact of left bundle branch block on myocardial perfusion and metabolism: A positron emission tomography study: G. Degtiarova et al.'
     year: '2021'
   _txZ90cAAAAJ:ipzZ9siozwsC:
     citations: 1
@@ -334,7 +330,7 @@ papers:
     title: "PARALLELPROJ\u2014an open-source framework for fast calculation of projections in tomography"
     year: '2024'
   _txZ90cAAAAJ:kRWSkSYxWN8C:
-    citations: 37
+    citations: 36
     title: Electromagnetic dipole strength up to the neutron separation energy from Pt() and Pt() reactions
     year: '2013'
   _txZ90cAAAAJ:kuK5TVdYjLIC:
@@ -342,7 +338,7 @@ papers:
     title: An approach for a reconstruction-derived whole-blood arterial input function (RDIF) in PET/MRI
     year: '2018'
   _txZ90cAAAAJ:kzcrU_BdoSEC:
-    citations: 338
+    citations: 334
     title: STAT2 signaling restricts viral dissemination but drives severe pneumonia in SARS-CoV-2 infected hamsters
     year: '2020'
   _txZ90cAAAAJ:lmc2jWPfTJgC:
@@ -350,7 +346,7 @@ papers:
     title: Joint estimation of activity, attenuation and motion in respiratory-gated time-of-flight PET
     year: '2022'
   _txZ90cAAAAJ:mvPsJ3kp5DgC:
-    citations: 64
+    citations: 66
     title: "Dipole strength in 78 Se below the neutron separation energy from a combined analysis of 77 Se (n, \u03B3) and 78 Se (\u03B3, \u03B3\u2032) experiments"
     year: '2012'
   _txZ90cAAAAJ:nrtMV_XWKgEC:
@@ -362,7 +358,7 @@ papers:
     title: Investigating total sodium concentration in brain regions after concussion using anatomically-guided reconstruction
     year: Unknown Year
   _txZ90cAAAAJ:olpn-zPbct0C:
-    citations: 46
+    citations: 43
     title: A volume of intersection approach for on-the-fly system matrix calculation in 3D PET image reconstruction
     year: '2014'
   _txZ90cAAAAJ:p__nRnzSRKYC:
@@ -390,7 +386,7 @@ papers:
     title: The Effect of Reducing CT Dose on Delineation of Organs at Risk in Proton Therapy
     year: '2022'
   _txZ90cAAAAJ:tKAzc9rXhukC:
-    citations: 101
+    citations: 102
     title: 'Quantitative PET in the 2020s: a roadmap'
     year: '2021'
   _txZ90cAAAAJ:tYavs44e6CUC:
@@ -406,15 +402,15 @@ papers:
     title: "Impact of MR\u2010guided PET reconstruction on tau detection and quantification with [18F]\u2010MK\u20106240: Neuroimaging / New imaging methods"
     year: '2020'
   _txZ90cAAAAJ:tzM49s52ZIMC:
-    citations: 63
+    citations: 65
     title: 'Time of flight in perspective: instrumental and computational aspects of time resolution in positron emission tomography'
     year: '2021'
   _txZ90cAAAAJ:uJ-U7cs_P_0C:
-    citations: 31
+    citations: 33
     title: Comparison of a 3D CZT and conventional SPECT/CT system for quantitative Lu-177 SPECT imaging
     year: '2024'
   _txZ90cAAAAJ:uLbwQdceFCQC:
-    citations: 26
+    citations: 27
     title: Estimation of crystal timing properties and efficiencies for the improvement of (joint) maximum-likelihood reconstructions in TOF-PET
     year: '2019'
   _txZ90cAAAAJ:uWiczbcajpAC:
@@ -450,7 +446,7 @@ papers:
     title: Use of Multimodal Imaging and Clinical Biomarkers in Presymptomatic Carriers of C9orf72 Repeat Expansion
     year: '2020'
   _txZ90cAAAAJ:zLWjf1WUPmwC:
-    citations: 13
+    citations: 14
     title: Use of micro-computed tomography to visualize and quantify COVID-19 vaccine efficiency in free-breathing hamsters
     year: '2021'
   _txZ90cAAAAJ:z_wVstp3MssC:
